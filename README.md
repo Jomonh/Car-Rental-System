@@ -15,7 +15,7 @@
 To clone this Repository
 
 ```bash 
-git clone https://github.com/Jomonhh/Car-Rental-System.git
+git clone https://github.com/Jomonh/Car-Rental-System.git
 ```
 
 copy and past it in your terminal and run thats it.
