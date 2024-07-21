@@ -12,7 +12,7 @@
 
 ## Getting Started
 
-To clone this Repository
+To clone this repository, run this in your command prompt/Terminal 
 
 ```bash 
 git clone https://github.com/Jomonh/Car-Rental-System.git
